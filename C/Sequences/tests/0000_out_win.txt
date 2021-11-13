@@ -1,0 +1,19 @@
+Enter the intervals:
+Digits: 193
+Zeros: 12
+Sequence: 2
+Digits: 50
+Zeros: 22
+Sequence: 4
+Digits: 27
+Zeros: 7
+Sequence: 2
+Digits: 204
+Zeros: 70
+Sequence: 4
+Digits: 187
+Zeros: 11
+Sequence: 2
+Digits: 202
+Zeros: 3
+Sequence: 1

@@ -1,0 +1,8 @@
+Enter the intervals:
+Digits: 2
+Zeros: 1
+Sequence: 1
+Digits: 2
+Zeros: 0
+Sequence: 0
+Invalid input.

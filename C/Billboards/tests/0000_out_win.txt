@@ -1,0 +1,7 @@
+Suitable positions:
+# of billboards:
+Distance: inf
+Distance: 250
+Distance: 500
+Distance: inf
+N/A

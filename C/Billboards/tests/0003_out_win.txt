@@ -1,0 +1,9 @@
+Suitable positions:
+# of billboards:
+Distance: 2
+Distance: 0
+Distance: inf
+Distance: 1
+N/A
+Distance: 2
+Distance: 0
