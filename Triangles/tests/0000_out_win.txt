@@ -1,3 +1,0 @@
-Triangle #1:
-Triangle #2:
-The triangles are identical.
