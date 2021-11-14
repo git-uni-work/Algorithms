@@ -1,5 +1,8 @@
-# " PROGRAMMING & ALGORITHMS " 
+# " ALGORITHMS " 
 
-* C
+* C++ TASKS
 
-* C++
+* C TASKS 
+
+
+
